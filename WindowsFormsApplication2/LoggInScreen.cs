@@ -32,6 +32,7 @@ namespace WindowsFormsApplication2
             {
                 c.Anchor = AnchorStyles.None;
             }
+
             this.MaximizeBox = false;
         }
 
